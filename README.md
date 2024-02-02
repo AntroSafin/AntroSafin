@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antro Safin</h1>
 <h3 align="center">A passionate Software Developer willing to learn new things.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=antrosafin" alt="antrosafin" /></a> </p>
-
 - 🌱 I’m currently working as **Software Developer at IBM**
 
 - 📫 How to reach me **antro180@gmail.com**
