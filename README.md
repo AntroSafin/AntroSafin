@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Antro Safin</h1>
-<h3 align="center">A passionate Software Developer willing to learn new things.</h3>
+
+-  A passionate software developer willing to learn new things
 
 - 🌱 I’m currently working as **Software Developer at IBM**
 
